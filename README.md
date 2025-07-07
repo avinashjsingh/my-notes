@@ -1,2 +1,2 @@
 # my-notes
-My notes on all topics
+## My notes on all topics
